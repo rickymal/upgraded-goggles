@@ -17,10 +17,10 @@ Uma API RESTful para gerenciar informações sobre filmes. As funcionalidades in
 
 ```bash
 # Clone este repositório
-git clone
+git clone git@github.com:rickymal/upgraded-goggles.git
 
 # Navegue até o diretório do projeto
-cd 
+cd upgraded-goggles
 
 # Instale as dependências
 # (Isso pode variar dependendo de sua stack tecnológica)
@@ -28,6 +28,8 @@ cd
 # Execute o aplicativo
 go get .
 got run main.go
+
+nota: é necessário tem o Go instalado!
 ```
 
 ## API Endpoints
